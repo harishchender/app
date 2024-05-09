@@ -5,9 +5,9 @@ public class StudentInformation {
     }
 
     private static void printStudentInfo() {
-        String collegeName = "PYTHONLIFE";
-        String studentName = "KRISHNA";
-        int rollNumber = 1596;
+        String collegeName = "HappyHome";
+        String studentName = "Harish";
+        int rollNumber = 6168;
 
         System.out.println("College Name: " + collegeName);
         System.out.println("Student Name: " + studentName);
