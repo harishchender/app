@@ -17,6 +17,7 @@ public class StudentInformation {
         System.out.println("We hope you have a fantastic journey at " + collegeName + ".");  
         System.out.println("Learn Here and Lead anywhere!!!!!!!!!");
         System.out.println("!!!!!!!!Amazing Harish!!!!!!!!!");
+        System.out.println("All the best!!!!!!!!!");
     }
 }
 
